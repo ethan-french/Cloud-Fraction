@@ -1,5 +1,4 @@
 # Cloud-Fraction
-## Cloud Fraction Prediction Using Machine Learning
 
 Low clouds play an important role in regulating the temperature of the Earth. Low clouds reflect solar radiation, which cools the surface of the Earth. It is important to know whether as the Earth warms due to climate change, if these clouds form with more or less frequency. This project uses machine learning to predict cloud fraction. This data makes climate models more accurate, allowing for proper planning to deal with problems arising from the changing climate.
 

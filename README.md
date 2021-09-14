@@ -17,3 +17,5 @@ This file contains helper functions for main file.
 ## results directory
 
 This directory contains the results from the test set. Previous results, except for pickled model, located in zip file.
+
+Dataset not cuurently uploaded to repository.

@@ -26,4 +26,4 @@ This directory contains the results from the test set.
 
 This directory contains the dataset for the model.
 
-**Running the script will overwrite the files in the results and models directories if they are not saved elsewhere**
+## **Running the script will overwrite the files in the results and models directories if they are not saved elsewhere**

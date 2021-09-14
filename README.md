@@ -5,3 +5,11 @@ Low clouds play an important role in regulating the temperature of the Earth. Lo
 An Anaconda environment has been provided with the cloud_fraction.yml file. A GPU is required to run program.
 
 Project done under Dr. Tianle Yuan in the NASA Climate and Radiation Laboratory.
+
+## main,py
+
+This file contains the code to run model. Run this file to use program.
+
+## toolbox.py
+
+This file contains helper functions for main file.

@@ -16,15 +16,12 @@ This file contains helper functions for main file.
 
 ## models directory
 
-This directory contains the trained model from the script.
+This directory contains the trained model from the script. Previous pickled model located in zip file.
 
 ## results directory
 
-This directory contains the results from the test set.
+This directory contains the results from the test set. Previous results located in zip file.
 
 ## data directory
 
 This directory contains the dataset for the model.
-
-
-**Running the script will overwrite the files in the results and models directories if they are not saved elsewhere**

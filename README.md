@@ -13,3 +13,17 @@ This file contains the code to run model. Run this file to use program.
 ## toolbox.py
 
 This file contains helper functions for main file.
+
+## models directory
+
+This directory contains the trained model from the script.
+
+## results directory
+
+This directory contains the results from the test set.
+
+## data directory
+
+This directory contains the dataset for the model.
+
+**Running the script will overwrite the files in the results and models directories if they are not saved elsewhere**

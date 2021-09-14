@@ -6,6 +6,8 @@ An Anaconda environment has been provided with the cloud_fraction.yml file. A GP
 
 Project done under and data from Dr. Tianle Yuan in the NASA Climate and Radiation Laboratory.
 
+Dataset not curently uploaded to repository.
+
 ## main.py
 
 This file contains the code to run model. Run this file to use program.
@@ -17,5 +19,3 @@ This file contains helper functions for main file.
 ## results directory
 
 This directory contains the results from the test set. Previous results, except for pickled model, located in zip file.
-
-Dataset not cuurently uploaded to repository.

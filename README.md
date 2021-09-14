@@ -6,7 +6,7 @@ An Anaconda environment has been provided with the cloud_fraction.yml file. A GP
 
 Project done under Dr. Tianle Yuan in the NASA Climate and Radiation Laboratory.
 
-## main,py
+## main.py
 
 This file contains the code to run model. Run this file to use program.
 

@@ -14,13 +14,9 @@ This file contains the code to run model. Run this file to use program.
 
 This file contains helper functions for main file.
 
-## models directory
-
-This directory contains the trained model from the script. Previous pickled model located in zip file.
-
 ## results directory
 
-This directory contains the results from the test set. Previous results located in zip file.
+This directory contains the results from the test set. Previous results, except for pickled model, located in zip file.
 
 ## data directory
 

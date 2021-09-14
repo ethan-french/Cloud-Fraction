@@ -45,7 +45,7 @@ ensemble.fit(X, y)
 
 # Save model
 print('Saving model')
-pickle_save(ensemble, 'models/ensemble.pkl')
+pickle_save(ensemble, 'results/ensemble.pkl')
 
 # Evaluate model
 evaluate(ensemble, X_val, y_val)
